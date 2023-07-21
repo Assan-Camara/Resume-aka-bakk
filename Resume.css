@@ -1,0 +1,32 @@
+body{margin: 0;}
+
+.one{background: url(beautiful.jpg); height: 600px; background-size: cover; 
+    ; display: flex; flex-direction: column; align-items: center;
+}
+
+h1{color: rgb(243, 154, 21); font-size: 50px; font-family: serif; letter-spacing: 10px; margin-top: 80px;
+margin-bottom: 0;}
+
+.two{display: flex; justify-content: center; align-items: center; margin-top: 90px;}
+.contain img{height: 200px; border-radius: 100px;}
+
+.three{text-align: center;}
+.three .no{color: rgb(243, 154, 21); letter-spacing: 5px; margin-top: 10px; font-family: serif;
+font-size: 50px; margin-bottom: 0;}
+.three p{margin-top: 10px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.four{display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 100px;}
+.arrenge{max-width: 800px;}
+.arrenge img{float: left; height: 250px; margin-right: 20px;}
+.arrenge p{line-height: 20px; letter-spacing: 3px;}
+
+.five{display: flex; align-items: center; justify-content: center; flex-direction: column;}
+.five h1{color: rgb(243, 154, 21);}
+.five h3{color: rgb(243, 154, 21);}
+.five button{background-color: rgb(32, 195, 140); padding: 20px 45px 20px 45px; border: none; 
+border-radius: 10px; color: aliceblue; font-size: 35px; margin-top: 50px; margin-bottom: 60px;}
+
+.last{background-color: rgb(32, 195, 140) ; height: 200px;}
+.navv{ display: flex; flex-direction: column; justify-content: center; align-items: center; justify-content: space-around; }
+.last .navv li {display: inline-block; list-style: none;}
+.pr{text-align: center;}
